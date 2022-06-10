@@ -1,0 +1,11 @@
+header {
+  color: rgb(255, 255, 255);
+  background-color: rgb(65, 153, 240);
+  font-family: 'Alegreya', serif;
+  font-size: 1.5em;
+}
+
+.section-custom-title {
+  font-family: 'Alegreya', serif;
+  font-size: 1.5em;
+}
